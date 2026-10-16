@@ -8,7 +8,7 @@
 ```text
 Mode_ZO_v1/
 ├── input/                  # โฟลเดอร์สำหรับใส่ไฟล์ Script ที่ถูก Obfuscate (Input Source)
-│   └── lua_test1.txt       # ไฟล์ตัวอย่าง: Luraph Luau VM (Hoho Hub Blox Fruits/GPO)
+│   └── lua_test1.txt       # ไฟล์ตัวอย่าง: Luraph Luau VM
 │
 ├── work/                   # โฟลเดอร์เครื่องมือถอดรหัส, Logs, สคริปต์วิเคราะห์ Bytecode
 │   ├── decode_rle.py       # ตัวถอดรหัส RLE / Hex Packing Layer
